@@ -12,7 +12,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Song Library**: A collection of famous guitar riffs and their corresponding tabs and sheet music.
 - **Progress Tracker**: Log your practice sessions and monitor improvement over time.
 
-## Installation:
+## Installation
 
 To use the tools, simply clone this repository and install the dependencies:
 
