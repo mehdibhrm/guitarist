@@ -7,7 +7,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 ## Features:
 
 - **Chord Finder**: Input a set of notes and the app will identify the corresponding chord.
-- **Tuning Assistant**: Use your microphone or guitar tuner to get accurate feedback on string tuning.
+- **Tuning Assistant**: Use your microphone or guitar tuner to get accurate feedback on string tuning
 - **Rhythm Trainer**: Practice different strumming patterns and timing with metronome integration.
 - **Song Library**: A collection of famous guitar riffs and their corresponding tabs and sheet music.
 - **Progress Tracker**: Log your practice sessions and monitor improvement over time.
