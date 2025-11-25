@@ -10,7 +10,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Tuning Assistant**: Use your microphone or guitar tuner to get accurate feedback on string tunin
 - **Rhythm Trainer**: Practice different strumming patterns and timing with metronome integration.
 - **Song Library**: A collection of famous guitar riffs and heir corresponding tabs and sheet music
-- **Progress Tracker**: Log your practice sessions and monitor improvement over time
+- **Progress Tracker**: Log your practice sessions and monitor improvement over tim
 ## Installation
 
 To use the tools, simply clone this repository and install the dependencies:
