@@ -10,7 +10,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Rhythm Trainer**: Practice different strumming patterns and timing with metronome integration
 - **Song Library**: A collection of famous guitar riffs and heir corresponding tabs and sheet mus
 - **Progress Tracker**: Log your practice sessions and monitor improvement over ti
-## Installation
+## Installatio
 
 To use the tools, simply clone this repository and install the dependencies:
 
