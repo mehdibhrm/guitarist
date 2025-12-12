@@ -14,6 +14,6 @@ This repository is dedicated to creating tools and resources for guitar players 
 To use the tools, simply clone this repository and install the dependencies:
 
 ```bas
-git clone https://github.com/username/guitar-playing-assistant.git
+git clone https://github.com/username/guitar-playing-assistant.gi
 cd guitar-playing-assistant
 npm install
