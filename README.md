@@ -9,7 +9,6 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Rhythm Trainer**
 - **Progress Tracker**: Log your practice sessions and monitor improvement over ti
 ## Installatio
-
 To use the tools, simply clone this repository and install the dependencies
 
 ```bas
