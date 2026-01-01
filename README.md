@@ -9,7 +9,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Rhythm Trainer
 - **Progress Tracker**: Log your practice sessions and monitor improvement over 
 ## Installatio
-To use the tools, simply clone this repository and install the dependencie
+To use the tools, simply clone this repository and install the dependenc
 
 ```bas
 git clone https://github.com/username/guitar-playing-assistant.gcd guitar-playing-assistant
