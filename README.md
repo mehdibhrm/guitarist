@@ -8,7 +8,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Tuning Assistant**: Use your microphone or guitar tuner to get accurate feedback on string t
 - **Rhythm Trainer
 - **Progress Tracker**: Log your practice sessions and monitor improvement over 
-## Installatio
+## Installat
 To use the tools, simply clone this repository and install the dependenc
 
 ```bas
