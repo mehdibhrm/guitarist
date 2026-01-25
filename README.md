@@ -7,7 +7,7 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Chord Finder**: Input a set of notes and the app will identify the corresponding cho
 - **Tuning Assistant**: Use your microphone or guitar tuner to get accurate feedback on string t
 - **Rhythm Trainer
-- **Progress Tracker**: Log your practice sessions and monitor improvement over 
+- **Progress Tracker**: Log your practice sessions and monitor improvement over
 ## Installa
 To use the tools, simply clone this repository and install the dependenc
 
