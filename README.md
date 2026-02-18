@@ -10,5 +10,5 @@ This repository is dedicated to creating tools and resources for guitar players 
 - **Progress Tracker*: Log your practice sessions and monitor improvement ov
 ## Installa
 To use the tools, simply clone this repository and install the depende```ba
-git clone https://github.com/username/guitar-playing-assistant.gcd guitar-playing-assistan
+git clone https://github.com/username/guitar-playing-assistant.gcd guitar-playing-assista
 npm insta
